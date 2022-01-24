@@ -1,4 +1,4 @@
-# Mike Micallef Python Programming assignment 
+# Coded by Mike Micallef
 from time import time
 import random
 
